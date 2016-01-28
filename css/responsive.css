@@ -306,7 +306,7 @@
         margin: 0 auto
     }
     .site-block .section-desc {
-        padding-right: 120px
+        /*padding-right: 120px*/
     }
     .row .owl-theme .owl-controls .owl-buttons {
         right: 15px
@@ -432,8 +432,8 @@
         margin-right: -30px
     }
     .row.large div[class*=col-] {
-        padding-left: 30px;
-        padding-right: 30px
+        /*padding-left: 30px;
+        padding-right: 30px*/
     }
     .row.large .data-form div[class*=col-] {
         padding-left: 15px;

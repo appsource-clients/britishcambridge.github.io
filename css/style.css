@@ -403,6 +403,10 @@ a {
     width: 100%
 }
 
+.ml5{
+  margin-left: 5px;
+}
+
 .inline {
     display: inline-block
 }
@@ -542,6 +546,10 @@ a {
     text-align: justify
 }
 
+.mb10{
+  margin-bottom: 10px;
+}
+
 .font-w300 {
     font-weight: 300
 }
@@ -567,7 +575,7 @@ a {
 }
 
 .text-blue {
-    color: #00afd8
+    color: #010242
 }
 
 .text-red {
@@ -1162,12 +1170,13 @@ a {
 }
 
 .services-list.type-two ul li h5 {
-    font-weight: 700;
+    font-weight: 500;
+    font-size: 20px;
     margin-bottom: 5px
 }
 
 .services-list.type-two ul li h2 {
-    color: #00afd8
+    color: #850200
 }
 
 .services-list.type-two ul li .btn {
@@ -1188,12 +1197,17 @@ a {
     background-color: #f6f7f8
 }
 
+.team-list.type-three > .team-member {
+    margin-top: 10px
+}
+
 .team-list.type-one .member-desc h3,
 .team-list.type-one .member-desc h4,
 .team-list.type-two .member-desc h3,
 .team-list.type-two .member-desc h4 {
     font-weight: 700;
-    margin-bottom: 10px
+    margin-bottom: 10px;
+    text-transform: uppercase;
 }
 
 .team-list.type-one .member-desc h4,
@@ -1250,7 +1264,7 @@ a {
 }
 
 .team-list.type-three .team-member {
-    position: relative
+    position: relative;
 }
 
 .team-list.type-three .team-member .member-desc {
@@ -1511,7 +1525,7 @@ a {
 }
 
 .client-list.type-three .client-content h3 {
-    font-family: Montserrat, sans-serif
+    color: #870200
 }
 
 .client-list.type-three .client-content h4 {
@@ -2034,11 +2048,12 @@ a {
 }
 
 .site-block .section-title {
-    margin-bottom: 10px
+    margin-bottom: 40px
 }
 
 .site-block .section-desc {
-    margin-bottom: 40px
+    margin-bottom: 40px;
+    line-height: 23px
 }
 
 .site-block.white,
